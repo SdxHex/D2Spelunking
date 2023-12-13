@@ -24,17 +24,31 @@ The mod dramatically increases the size of the game world, especially in undergr
 - **Enhanced Loot System**: "No Drop" rate increased, ideal for Player 8 setting.
   
 ## Quick Start Guide for Diablo II Spelunking Edition
-Welcome to your adventure in Diablo II Spelunking Edition! Here's a guide to get you started:
 
-Starting Level Challenge: When you begin your journey at level 1, be prepared for a tough start. Monsters in the game are initially 4 levels higher than you. It's a good idea to gain some experience in safer areas before braving the Den.
-Item Drop Rates: Playing on Player 1 (P1) setting might make item drops feel scarce. If you're seeking more frequent loot, consider this as you play.
-Optimal Player Settings: For a balanced experience where your level matches the monsters, try playing on Player 8 (P8) throughout the game. This setting helps maintain a consistent challenge and ensures better loot.
-Recommended Character Builds: For newcomers, we recommend starting with one of the following character builds:
+- **Starting Level Challenge**: 
+  - At level 1, monsters are 4 levels higher than the player.
+  - It's advisable to gain experience in safer areas before tackling the Den.
 
-Wind Druid: Harnesses the power of nature, cold, phyiscal and defense.
-Barbarian: A robust warrior with high survivability and melee strength.
-Summonmancer (Necromancer): Utilizes summons to deal damage and provide support.
-These builds are tailored to provide a smoother introduction to the mod's enhanced difficulty and gameplay mechanics. In the Diablo II Spelunking Edition, thorough exploration and smart strategy are vital. Unlike in the standard game, areas such as the pits or caves, which you might normally skip, are essential in this mod. Venturing into these challenging zones is not just recommended but mandatory for acquiring better loot and gaining crucial experience. Embrace the adventure fully and delve into every nook and cranny that the world offers – every exploration is an opportunity for great rewards. Happy adventuring!
+- **Item Drop Rates**: 
+  - Playing on Player 1 (P1) setting may result in fewer item drops.
+  - For more frequent loot, adjust your player setting accordingly.
+
+- **Optimal Player Settings**: 
+  - For a balanced experience, consider playing on Player 8 (P8).
+  - This setting ensures a consistent challenge and better loot opportunities.
+
+- **Recommended Character Builds**: 
+  - **Wind Druid**: Master of nature, cold, and physical defense.
+  - **Barbarian**: High survivability and melee strength.
+  - **Summonmancer (Necromancer)**: Specializes in summoning for damage and support.
+
+- **Exploration and Strategy**: 
+  - This mod requires thorough exploration and smart strategy.
+  - Areas like pits or caves, typically optional in the standard game, are crucial for better loot and experience.
+  - Embrace full exploration for the best rewards.
+
+Happy adventuring in the Diablo II Spelunking Edition!
+
 ## Level and Item Overhaul
 Players can now reach level 125, with the skill cap increased to 30, opening new possibilities for character development.
 
