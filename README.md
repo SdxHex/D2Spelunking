@@ -5,7 +5,7 @@ D2R Mod
 ## Description
 
 # Diablo 2 Splunking Mod
-
+##Check the Wiki for more information
 ## Enhanced Exploration and Difficulty
 Embark on an adventure where the unknown lurks around every corner, and danger escalates with every step. Our mod significantly increases the difficulty, ensuring that monsters always outlevel and outpower the player.
 
