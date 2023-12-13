@@ -1,0 +1,17 @@
+Infinite Respec: True
+Reset Maps: False
+Audio Language: 0
+Text Language: 0
+UI Theme: 0
+Item Icons: 0
+Merc Icons: 0
+Runeword Sorting: 0
+Auto Backups: 0
+HUD Design: 0
+Item Ilvl's: 0
+Buff Icons: 0
+Monster Stats Display: 0
+Hide Helmets: 0
+Personalized Tabs: 0
+HDR Fix: True
+Skill Icon Pack: 0
