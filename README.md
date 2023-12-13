@@ -102,8 +102,6 @@ This mod is not just an expansion; it's a reimagining of the game. It invites pl
 - **Revamped Hirelings**: Hirelings with distinct classes (Amazon, Paladin, Sorceress, Druid, Barbarian) can equip class-specific gear.
 - **Progressive Set Item Acquisition**: Set pieces are distributed across difficulties, with some parts found in Normal, others in Nightmare, and the remainder in Hell. Skipping earlier difficulties makes it harder to complete sets.
 - **Magic Find Craft Set**: New set designed to improve the chances of finding rare items.
-- **Simplified Crafting with MiniCube**: Streamlined process for crushing gems and jewels for crafting.
-- **Simplified Crafting Recipes**: Each craft set uses two jewels and a specific rune for easier crafting.
 - **Temper System**: Adds a chance to imbue items with random bonuses, with the potential increasing from levels 1 to 16.
 -- **Gameplay Modifications**: 
   - *Removal of Runewords and Certain Aura Items*: Streamlines the item system for a more focused gameplay experience.
