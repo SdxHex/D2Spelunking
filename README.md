@@ -78,11 +78,6 @@ Designed to enhance the chances of discovering rare and valuable items.
 
 - **Magic Find Craft Set**: Boosts magic find stats.
 
-## Simplified Crafting with the MiniCube
-Makes crafting more accessible and engaging.
-
-- **MiniCube for Easy Gem Crushing**: Streamlines the crafting process.
-
 ## Enhanced Crafting System
 Overhauled for intuitive and rewarding crafting.
 
