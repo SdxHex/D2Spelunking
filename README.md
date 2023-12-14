@@ -156,11 +156,7 @@ Each hireling brings a distinct set of skills and playstyles, encouraging player
 - If you die, save and quit and then resurrect the hireling, they will have no items, save and quit and the items will return.
 
 ## Installation
-- Download file
-- Add folder called mods under your Diablo 2 directory generally (C:\Program Files (x86)\Diablo II Resurrected)
-- Extract the contents of the download in the mods folder.
-- Start Battle.net, under settings hit game settings, and check additional arguments, and type --mods D2Spelunking
-- Start game, Your character should start with the cube. 
+ ** For detailed installation instructions, please visit our [Installation Guide](https://github.com/SdxHex/D2Spelunking/wiki/1,2,3-Installation).**
 
 ## Support and Contact
 
