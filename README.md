@@ -24,7 +24,7 @@ The mod dramatically increases the size of the game world, especially in undergr
 - **Enhanced Loot System**: "No Drop" rate increased, ideal for Player 8 setting.
   
 ## Quick Start Guide for Diablo II Spelunking Edition
-
+- ** For detailed installation instructions, please visit our [Installation Guide](https://github.com/SdxHex/D2Spelunking/wiki/1,2,3-Installation).**
 - **Starting Level Challenge**: 
   - At level 1, monsters are 4 levels higher than the player.
   - It's advisable to gain experience in safer areas before tackling the Den.
