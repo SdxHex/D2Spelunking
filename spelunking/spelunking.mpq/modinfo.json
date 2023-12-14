@@ -1,28 +1,27 @@
 {
-    "name": "MyCustomMod",
-    "savepath": "../"
+    "name": "D2 Spluenking",
+    "savepath": "D2Spluenking/"
 
 /*
 --My Mod Details--
-Mod Download: 
-Mod Config Download: 
-Mod Version: 
-News 1 Title: "My Custom Mod"
-News 1 Message: "My message goes here"
-News 2 Title: "My Custom Mod"
-News 2 Message: "My message goes here"
+Mod Download: https://github.com/SdxHex/D2Spelunking/archive/refs/tags/alpha.zip
+Mod Config Download: https://drive.google.com/file/d/1k44EcFCe0vlS8sKOwcPfz41Y2cxjlLgW/view?usp=drive_link
+Mod Version: v.02
+News 1 Title: "Welcome to D2 Spluenkling!"
+News 1 Message: "Enjoy a harder more diverse side of Dialo""
+News 2 Title: "News"
+News 2 Message: ""
  
 --General Options--
 Map Layouts: Enabled
 UI Themes: Enabled
 Customizations: Enabled
-Vault Access: Disabled
+Vault Access: Enabled
 
 --Additional Options--
-Item Icons: Enabled
-Runeword Sorting: Enabled
-HUD Display: Enabled
+Item Icons: Disabled
+Runeword Sorting: Disabled
+HUD Display: Disabled
 Monster Stats Display: Enabled
 */
-
 }
