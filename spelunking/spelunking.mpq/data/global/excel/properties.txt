@@ -276,13 +276,27 @@ pierce-immunity-poison	1	1	item_pierce_poison_immunity																										
 pierce-immunity-damage	1	1	item_pierce_damage_immunity																											Monster Physical Immunity is Sundered		Min %	Max %		0
 pierce-immunity-magic	1	1	item_pierce_magic_immunity																											Monster Magic Immunity is Sundered		Min %	Max %		0
 charge-noconsume	1	1	item_charge_noconsume																											+#% chance for finishing moves to not consume charges		Min %	Max %		0
-GB-Total	1	17	GB_Total																															none	0
-KB-Terror	1	17	KB_Terror																																0
-KB-Hate	1	17	KB_Hate																																0
-KB-Dest	1	17	KB_Dest																																0
-OB-Diablo	1	17	OB_Diablo																																0
-OB-Baal	1	17	OB_Baal																																0
-OB-Meph	1	17	OB_Meph																																0
-JB-Total	1	17	JB_Total																																0
 corrupt-display	1	17	corrupt_display																																0
 corrupt-hidden	1	17	corrupt_hidden																																
+double-stats2	1	1	strength			1	dexterity																							+# to all Attributes		Min #	Max #		0
+double-stats3	1	1	strength			1	vitality																							+# to all Attributes		Min #	Max #		0
+double-stats4	1	1	dexterity			1	vitality																							+# to all Attributes		Min #	Max #		0
+double-stats5	1	1	dexterity			1	energy																							+# to all Attributes		Min #	Max #		0
+double-stats6	1	1	vitality			1	energy																							+# to all Attributes		Min #	Max #		0
+double-stats7	1	1	strength			1	energy																							+# to all Attributes		Min #	Max #		0
+double-stats8	1	1	dexterity			1	mana																							+# to all Attributes		Min #	Max #		0
+double-stats9	1	1	vitality			1	health																							+# to all Attributes		Min #	Max #		0
+double-stats9	1	1	vitality			1	energy																							+# to all Attributes		Min #	Max #		0
+tri-stats1	1	1	strength			1	dexterity			1	vitality																			+# to all Attributes		Min #	Max #		0
+tri-stats2	1	1	strength			1	dexterity			1	energy																			+# to all Attributes		Min #	Max #		0
+tri-stats3	1	1	strength			1	vitality			1	energy																			+# to all Attributes		Min #	Max #		0
+tri-stats4	1	1	dexterity			1	vitality			1	energy																			+# to all Attributes		Min #	Max #		0
+dual-res1	1	1	fireresist			1	coldresist																												
+dual-res2	1	1	fireresist			1	lightresist																												
+dual-res3	1	1	fireresist			1	poisonresist																												
+dual-res4	1	1	coldresist			1	lightresist																												
+dual-res5	1	1	coldresist			1	poisonresist																												
+tri-res1	1	1	fireresist			1	coldresist			1	lightresist																								
+tri-res2	1	1	fireresist			1	coldresist			1	poisonresist																								
+tri-res3	1	1	fireresist			1	lightresist			1	poisonresist																								
+tri-res4	1	1	coldresist			1	lightresist			1	poisonresist																								
