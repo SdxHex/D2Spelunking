@@ -8213,7 +8213,7 @@
   {
     "id": 4487,
     "Key": "skillld28",
-    "enUS": "creates a duplicate of yourself\nthat draws fire from enemies",
+    "enUS": "creates a duplicate of yourself\nthat draws fire from enemies\nAdds +2 Resist All and HP To Valkyrie",
     "zhTW": "放出一個自己的替身，引開敵人的攻擊",
     "deDE": "Erschafft ein Abbild von Euch, das\ngegnerische Angriffe auf sich zieht.",
     "esES": "Crea un duplicado de ti misma\nque atrae los ataques de los enemigos.",
@@ -8281,7 +8281,7 @@
   {
     "id": 4491,
     "Key": "skillld29",
-    "enUS": "passive - you have a chance to dodge\na melee or missile attack\nwhen walking or running",
+    "enUS": "passive - Gives ",
     "zhTW": "被動 - 你在行走或跑步時，有一定機率閃避近戰或遠程攻擊",
     "deDE": "Passiv - Gewährt eine Chance,\nNahkampfangriffen und Geschossen\nauszuweichen, während Ihr Euch bewegt.",
     "esES": "Pasiva: Tienes una probabilidad de esquivar\nun ataque cuerpo a cuerpo o de misil\nmientras estés andando o corriendo.",
