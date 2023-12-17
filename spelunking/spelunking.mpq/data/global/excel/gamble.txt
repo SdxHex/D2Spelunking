@@ -185,3 +185,6 @@ Sacred Rondache	pac
 Ancient Shield	pad
 Zakarum Shield	pae
 Vortex Shield	paf
+Scepter	scp
+Grand Scepter	gsc
+War Scepter	wsp
